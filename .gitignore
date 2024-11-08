@@ -7,10 +7,6 @@ data/
 models/checkpoints/
 *.pt
 
-# Ignore visualization images
-results/visualizations/
-*.png
-
 # Ignore virtual environment
 venv/
 .env/
