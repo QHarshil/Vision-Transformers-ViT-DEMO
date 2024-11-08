@@ -1,0 +1,21 @@
+# Ignore data files
+data/
+*.tar.gz
+*.zip
+
+# Ignore model checkpoints
+models/checkpoints/
+*.pt
+
+# Ignore visualization images
+results/visualizations/
+*.png
+
+# Ignore virtual environment
+venv/
+.env/
+
+# Ignore other system files
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
