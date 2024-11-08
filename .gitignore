@@ -3,6 +3,13 @@ data/
 *.tar.gz
 *.zip
 
+# Ignore .pt model files. Too Large
+models/checkpoints/
+*.pt
+
+results/visualizations
+*.png
+
 # Ignore virtual environment
 venv/
 .env/
