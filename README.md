@@ -122,3 +122,11 @@ python scripts/visualize_attention.py
 ```
 
 The attention maps will be saved in `results/visualizations`.
+
+### Gradio App
+
+To generate gradio app link, run:
+
+```bash
+python app.py
+```
