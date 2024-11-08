@@ -1,0 +1,7 @@
+transformers==4.21.1   # Hugging Face library for pre-trained ViT models
+torch==2.5.1           # PyTorch for model training and inference
+torchvision==0.20.1    # Provides CIFAR-10 dataset and data transformations
+gradio==3.1.5          # Library for creating the interactive frontend
+Pillow==9.1.0          # For image processing and manipulation
+numpy==1.22.0          # Required for numerical operations
+matplotlib==3.5.1      # For generating attention map visualizations
