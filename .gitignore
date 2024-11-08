@@ -3,10 +3,6 @@ data/
 *.tar.gz
 *.zip
 
-# Ignore model checkpoints
-models/checkpoints/
-vit_epoch_1.pt
-
 # Ignore virtual environment
 venv/
 .env/
