@@ -5,7 +5,7 @@ data/
 
 # Ignore model checkpoints
 models/checkpoints/
-*.pt
+vit_epoch_1.pt
 
 # Ignore virtual environment
 venv/
