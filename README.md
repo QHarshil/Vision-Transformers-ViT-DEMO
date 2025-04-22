@@ -3,16 +3,6 @@
 
 This project demonstrates the use of a Vision Transformer (ViT) model fine-tuned on the CIFAR-10 dataset for image classification. ViTs work by transforming images into patches, processing them through transformer layers, and generating attention maps that reveal which parts of the image the model "focuses on" for classification.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Dataset](#dataset)
-3. [Model Architecture and Training](#model-architecture-and-training)
-4. [Evaluation](#evaluation)
-5. [Attention Map Visualization](#attention-map-visualization)
-6. [How to Use](#how-to-use)
-7. [Project Structure](#project-structure)
-
 ## Introduction
 
 The Vision Transformer (ViT) is a deep learning model designed for image classification. Unlike traditional Convolutional Neural Networks (CNNs), ViT applies the transformer architecture, which has shown success in NLP, to images. The model divides images into small patches, processes each patch as a sequence, and generates class predictions based on contextual relationships between patches.
